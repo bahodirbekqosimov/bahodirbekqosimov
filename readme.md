@@ -6,11 +6,13 @@ Backend Junior | Python, JavaScript, NodeJs, Django, Flask, FastApi</h3>
 
 ---
 
-<!-- Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFEA&center=true&vCenter=true&width=600&lines=Node.js+%7C+PostgreSQL+%7C+Linux+%7C+JavaScript;Python+%7C+Django+%7C+FastAPI+%7C+Flask;Kiberxavfsizlik+meni+ruh+lantiradi;O‘rganish+hech+qachon+to‘xtamaydi;Hayot+bu+kod,+kod+bu+hayot!+🔥" alt="Typing SVG" />
-</p>
 
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,js,nodejs,postgres,linux,git,github,vscode,html,css,docker" />
+</p>
 
 
 ## 📊 Statistikam
@@ -37,5 +39,6 @@ Backend Junior | Python, JavaScript, NodeJs, Django, Flask, FastApi</h3>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 <h3 align="center">⭐️ Follow me!!</h3>
+
 
 
