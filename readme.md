@@ -32,19 +32,6 @@ Backend Junior | Python, JavaScript, NodeJs, Django, Flask, FastApi</h3>
 
 ---
 
-## 🐍 Commit Snake
-<p align="center">
-  <img src="https://github.com/bahodirbekqosimov/bahodirbekqosimov/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
----
-
-## ✨ Random Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote"/>
-</p>
-
----
 
 ## 🌐 Mening Linklarim
 <p align="center">
@@ -57,3 +44,4 @@ Backend Junior | Python, JavaScript, NodeJs, Django, Flask, FastApi</h3>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 <h3 align="center">⭐️ Follow me!!</h3>
+
